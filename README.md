@@ -1,6 +1,6 @@
 # Analytics-in-Retail
 
-Three datasets are provided for this case study:
+   Three datasets are provided for this case study:
 • Customer: Customer information including demographics
 • Transaction: Transaction of customers
 • Product Hierarchy: Product information
