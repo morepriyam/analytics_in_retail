@@ -18,22 +18,26 @@ Create a report and display the calculated metrics, reports and inferences.
 
 
 CASE STUDY
-1. Merge the data sets
-2. Check the duplicates if there are any duplicates drop them.
-3. Check for the null/missingvalues.
-4. Prepare summary report for all the columns.
-5. Find the percentage of products bought by men and women(clothes).
-6. Find the percentage of products bought by men and women(footwear).
-7. How many types of stores are there,and which type ofstores sells maximum of products?
-8. Which type of book is selling the most?
+1. Mergethedatasets
+2. Checktheduplicatesifthereareanyduplicatesdropthem.
+3. Checkforthenull/missingvalues.
+4. Preparesummaryreportforallthecolumns.
+5. Findthepercentageofproductsboughtbymenandwomen(clothes).
+6. Findthepercentageofproductsboughtbymenandwomen(footwear).
+7. Howmanytypesofstoresarethere,andwhichtypeofstoressells
+maximum of products?
+8. Whichtypeofbookissellingthemost?
 9. What is the total amount spent by men on electronics? 10. What is the total amount spent by women on clothing? 11. What is the total amount spent on furnishings?
 12. Who reads books more (Men/Women)?
 13. Which type of books men read more?
 14. Which type of books women read more?
 15. Which electronic good is selling the most?
-16. What is the total amount spent by customers between 1st January 2012 and 31st December 2012?
-17. Calculate the following information using the merged data. Time period of the available transaction data.
-18. Count of transactions where the total amount of transaction was negative.
+16. What is the total amount spent by customers between
+1st January 2012 and 31st December 2012?
+17. Calculate the following information using the merged data. Time
+period of the available transaction data.
+18. Count of transactions where the total amount of transaction was
+negative.
 
 
 VISUALISATION
