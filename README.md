@@ -26,7 +26,9 @@ Create a report and display the calculated metrics, reports and inferences.
 6. Find the percentage of products bought by men and women(footwear).
 7. How many types of stores are there,and which type ofstores sells maximum of products?
 8. Which type of book is selling the most?
-9. What is the total amount spent by men on electronics? 10. What is the total amount spent by women on clothing? 11. What is the total amount spent on furnishings?
+9. What is the total amount spent by men on electronics? 
+10. What is the total amount spent by women on clothing?
+11. What is the total amount spent on furnishings?
 12. Who reads books more (Men/Women)?
 13. Which type of books men read more?
 14. Which type of books women read more?
