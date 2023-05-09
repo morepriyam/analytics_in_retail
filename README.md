@@ -1,4 +1,4 @@
-# Analytics-in-Retail  by - PriyamMore
+# Analytics-in-Retail  
 
   ## Three datasets are provided for this case study:
 • Customer: Customer information including demographics
